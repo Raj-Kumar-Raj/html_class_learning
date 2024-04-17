@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- create the given page using html tags-->
+
+    <h1>Avenger</h1>
+    <h2>Iron Man </h2>
+    <p>also goes by the name of tony stark</p>
+    <h2>Captain America</h2>
+    <p>also goes by the name of Stere Rogers</p>
+    <h2>Hulk</h2>
+    <p>also goes by the name Brue Banner</p>
+
+
+</body>
+</html>
